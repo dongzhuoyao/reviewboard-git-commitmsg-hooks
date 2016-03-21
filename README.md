@@ -1,5 +1,5 @@
 # reviewboard-git-commitmsg-hooks
-参考赖勇浩（http://laiyonghao.com）  的代码
+参考赖勇浩（http://laiyonghao.com ）  的代码
 
 本代码主要实现在git中本地commit的时候和ReviewBoard结合验证reviewid.<br>
 每次代码commit的时候,message中必须包含:review:XXX.<br>
